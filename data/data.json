@@ -1,0 +1,1106 @@
+{
+	"AF": {
+		"country": "Afghanistan",
+		"country_link": "/wiki/Postal_codes_in_Afghanistan",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"AX": {
+		"country": "\u00c5land Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_%C3%85land_Islands&action=edit&redlink=1",
+		"area_format": "NNNNN, CC-NNNNN",
+		"street_format": ""
+	},
+	"AL": {
+		"country": "Albania",
+		"country_link": "/wiki/Postal_codes_in_Albania",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"DZ": {
+		"country": "Algeria",
+		"country_link": "/wiki/Postal_codes_in_Algeria",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"AS": {
+		"country": "American Samoa",
+		"country_link": "/wiki/Postal_codes_in_American_Samoa",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"AD": {
+		"country": "Andorra",
+		"country_link": "/wiki/Postal_codes_in_Andorra",
+		"area_format": "CCNNN",
+		"street_format": ""
+	},
+	"AI": {
+		"country": "Anguilla",
+		"country_link": "/w/index.php?title=Postal_codes_in_Anguilla&action=edit&redlink=1",
+		"area_format": "AI-2640",
+		"street_format": ""
+	},
+	"AR": {
+		"country": "Argentina",
+		"country_link": "/wiki/Postal_codes_in_Argentina",
+		"area_format": "NNNN",
+		"street_format": "NNNN, ANNNNAAA"
+	},
+	"AM": {
+		"country": "Armenia",
+		"country_link": "/wiki/Postal_codes_in_Armenia",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"AU": {
+		"country": "Australia",
+		"country_link": "/wiki/Postal_codes_in_Australia",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"AT": {
+		"country": "Austria",
+		"country_link": "/wiki/Postal_codes_in_Austria",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"AZ": {
+		"country": "Azerbaijan",
+		"country_link": "/wiki/Postal_codes_in_Azerbaijan",
+		"area_format": "CC NNNN",
+		"street_format": ""
+	},
+	"BH": {
+		"country": "Bahrain",
+		"country_link": "/w/index.php?title=Postal_codes_in_Bahrain&action=edit&redlink=1",
+		"area_format": "NNN, NNNN",
+		"street_format": ""
+	},
+	"BD": {
+		"country": "Bangladesh",
+		"country_link": "/wiki/List_of_postal_codes_in_Bangladesh",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"BB": {
+		"country": "Barbados",
+		"country_link": "/wiki/Postal_codes_in_Barbados",
+		"area_format": "CCNNNNN",
+		"street_format": ""
+	},
+	"BY": {
+		"country": "Belarus",
+		"country_link": "/w/index.php?title=Postal_codes_in_Belarus&action=edit&redlink=1",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"BE": {
+		"country": "Belgium",
+		"country_link": "/wiki/Postal_codes_in_Belgium",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"BT": {
+		"country": "Bhutan",
+		"country_link": "/wiki/Postal_codes_in_Bhutan",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"BA": {
+		"country": "Bosnia and Herzegovina",
+		"country_link": "/w/index.php?title=Postal_codes_in_Bosnia_and_Herzegovina&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"BR": {
+		"country": "Brazil",
+		"country_link": "/wiki/Postal_codes_in_Brazil",
+		"area_format": "NNNNN, NNNNN-NNN",
+		"street_format": "NNNNN-NNN"
+	},
+	"AQ": {
+		"country": "British Antarctic Territory",
+		"country_link": "/w/index.php?title=Postal_codes_in_British_Antarctic_Territory&action=edit&redlink=1",
+		"area_format": "BIQQ 1ZZ",
+		"street_format": ""
+	},
+	"IO": {
+		"country": "British Indian Ocean Territory",
+		"country_link": "/w/index.php?title=Postal_codes_in_British_Indian_Ocean_Territory&action=edit&redlink=1",
+		"area_format": "BBND 1ZZ",
+		"street_format": ""
+	},
+	"VG": {
+		"country": "British Virgin Islands",
+		"country_link": "/wiki/Postal_codes_in_the_British_Virgin_Islands",
+		"area_format": "CCNNNN",
+		"street_format": ""
+	},
+	"BN": {
+		"country": "Brunei",
+		"country_link": "/wiki/Postal_codes_in_Brunei",
+		"area_format": "AANNNN",
+		"street_format": ""
+	},
+	"BG": {
+		"country": "Bulgaria",
+		"country_link": "/wiki/Postal_codes_in_Bulgaria",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"KH": {
+		"country": "Cambodia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Cambodia&action=edit&redlink=1",
+		"area_format": "120000",
+		"street_format": ""
+	},
+	"CA": {
+		"country": "Canada",
+		"country_link": "/wiki/Postal_codes_in_Canada",
+		"area_format": "ANA NAN",
+		"street_format": ""
+	},
+	"CV": {
+		"country": "Cape Verde",
+		"country_link": "/w/index.php?title=Postal_codes_in_Cape_Verde&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"KY": {
+		"country": "Cayman Islands",
+		"country_link": "/wiki/Postal_codes_in_Cayman_Islands",
+		"area_format": "CCN-NNNN",
+		"street_format": ""
+	},
+	"CL": {
+		"country": "Chile",
+		"country_link": "/wiki/Postal_codes_in_Chile",
+		"area_format": "NNNNNNN, NNN-NNNN",
+		"street_format": ""
+	},
+	"CN": {
+		"country": "China",
+		"country_link": "/wiki/Postal_codes_in_China",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"CX": {
+		"country": "Christmas Island",
+		"country_link": "/w/index.php?title=Postal_codes_in_Christmas_Island&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"CC": {
+		"country": "Cocos (Keeling) Island",
+		"country_link": "/w/index.php?title=Postal_codes_in_Cocos_(Keeling)_Island&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"CO": {
+		"country": "Colombia",
+		"country_link": "/wiki/Postal_codes_in_Colombia",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"CR": {
+		"country": "Costa Rica",
+		"country_link": "/wiki/Postal_codes_in_Costa_Rica",
+		"area_format": "NNNNN",
+		"street_format": "NNNNN-NNNN"
+	},
+	"HR": {
+		"country": "Croatia",
+		"country_link": "/wiki/Postal_codes_in_Croatia",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"CU": {
+		"country": "Cuba",
+		"country_link": "/w/index.php?title=Postal_codes_in_Cuba&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"CY": {
+		"country": "Cyprus",
+		"country_link": "/wiki/Postal_codes_in_Cyprus",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"CZ": {
+		"country": "Czech Republic",
+		"country_link": "/wiki/Postal_codes_in_the_Czech_Republic",
+		"area_format": "NNN NN",
+		"street_format": ""
+	},
+	"DK": {
+		"country": "Denmark",
+		"country_link": "/wiki/Postal_codes_in_Denmark",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"DO": {
+		"country": "Dominican Republic",
+		"country_link": "/w/index.php?title=Postal_codes_in_Dominican_Republic&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"EC": {
+		"country": "Ecuador",
+		"country_link": "/wiki/Postal_codes_in_Ecuador",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"SV": {
+		"country": "El Salvador",
+		"country_link": "/w/index.php?title=Postal_codes_in_El_Salvador&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"EG": {
+		"country": "Egypt",
+		"country_link": "/wiki/Postal_codes_in_Egypt",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"EE": {
+		"country": "Estonia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Estonia&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"SZ": {
+		"country": "Eswatini",
+		"country_link": "/w/index.php?title=Postal_codes_in_Eswatini&action=edit&redlink=1",
+		"area_format": "ANNN",
+		"street_format": ""
+	},
+	"ET": {
+		"country": "Ethiopia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Ethiopia&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"FK": {
+		"country": "Falkland Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_Falkland_Islands&action=edit&redlink=1",
+		"area_format": "FIQQ 1ZZ",
+		"street_format": ""
+	},
+	"FO": {
+		"country": "Faroe Islands",
+		"country_link": "/wiki/Postal_codes_in_Denmark",
+		"area_format": "CC-NNN",
+		"street_format": ""
+	},
+	"FI": {
+		"country": "Finland",
+		"country_link": "/wiki/Postal_codes_in_Finland",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"FR": {
+		"country": "France",
+		"country_link": "/wiki/Postal_codes_in_France",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"GF": {
+		"country": "French Guiana",
+		"country_link": "/wiki/Postal_codes_in_French_Guiana",
+		"area_format": "973NN",
+		"street_format": ""
+	},
+	"PF": {
+		"country": "French Polynesia",
+		"country_link": "/wiki/Postal_codes_in_French_Polynesia",
+		"area_format": "987NN",
+		"street_format": ""
+	},
+	"GE": {
+		"country": "Georgia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Georgia&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"DE": {
+		"country": "Germany",
+		"country_link": "/wiki/Postal_codes_in_Germany",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"GH": {
+		"country": "Ghana",
+		"country_link": "/wiki/Postal_codes_in_Ghana",
+		"area_format": "AA-NNNN-NNNN",
+		"street_format": ""
+	},
+	"GI": {
+		"country": "Gibraltar",
+		"country_link": "/wiki/Postal_codes_in_Gibraltar",
+		"area_format": "GX11 1AA",
+		"street_format": ""
+	},
+	"GR": {
+		"country": "Greece",
+		"country_link": "/wiki/Postal_codes_in_Greece",
+		"area_format": "NNN NN",
+		"street_format": ""
+	},
+	"GL": {
+		"country": "Greenland",
+		"country_link": "/w/index.php?title=Postal_codes_in_Greenland&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"GP": {
+		"country": "Guadeloupe",
+		"country_link": "/wiki/Postal_codes_in_Guadeloupe",
+		"area_format": "971NN",
+		"street_format": ""
+	},
+	"GU": {
+		"country": "Guam",
+		"country_link": "/w/index.php?title=Postal_codes_in_Guam&action=edit&redlink=1",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"GT": {
+		"country": "Guatemala",
+		"country_link": "/wiki/Postal_codes_in_Guatemala",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"GG": {
+		"country": "Guernsey",
+		"country_link": "/wiki/GY_postcode_area",
+		"area_format": "AAN NAA, AANN NAA",
+		"street_format": ""
+	},
+	"GN": {
+		"country": "Guinea",
+		"country_link": "/w/index.php?title=Postal_codes_in_Guinea&action=edit&redlink=1",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"GW": {
+		"country": "Guinea Bissau",
+		"country_link": "/w/index.php?title=Postal_codes_in_Guinea_Bissau&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"HT": {
+		"country": "Haiti",
+		"country_link": "/w/index.php?title=Postal_codes_in_Haiti&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"HN": {
+		"country": "Honduras",
+		"country_link": "/w/index.php?title=Postal_codes_in_Honduras&action=edit&redlink=1",
+		"area_format": "AANNNN, NNNNN",
+		"street_format": ""
+	},
+	"HU": {
+		"country": "Hungary",
+		"country_link": "/wiki/Postal_codes_in_Hungary",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"IS": {
+		"country": "Iceland",
+		"country_link": "/wiki/Postal_codes_in_Iceland",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"IN": {
+		"country": "India",
+		"country_link": "/wiki/Postal_codes_in_India",
+		"area_format": "NNNNNN,\nNNN NNN",
+		"street_format": ""
+	},
+	"ID": {
+		"country": "Indonesia",
+		"country_link": "/wiki/Postal_codes_in_Indonesia",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"IR": {
+		"country": "Iran",
+		"country_link": "/w/index.php?title=Postal_codes_in_Iran&action=edit&redlink=1",
+		"area_format": "NNNNN-NNNNN",
+		"street_format": ""
+	},
+	"IQ": {
+		"country": "Iraq",
+		"country_link": "/wiki/Postal_codes_in_Iraq",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"IE": {
+		"country": "Ireland",
+		"country_link": "/wiki/Postal_codes_in_Ireland",
+		"area_format": "ANN\n(Routing key, which is never used on its own)",
+		"street_format": "[D6W/ANN] [A/N][A/N][A/N][A/N]\n(Single exception where its\nD6W\u00a0????)\n[10]"
+	},
+	"IM": {
+		"country": "Isle of Man",
+		"country_link": "/wiki/IM_postcode_area",
+		"area_format": "CCN NAA, CCNN NAA",
+		"street_format": ""
+	},
+	"IL": {
+		"country": "Israel",
+		"country_link": "/wiki/Postal_codes_in_Israel",
+		"area_format": "NNNNNNN",
+		"street_format": ""
+	},
+	"IT": {
+		"country": "Italy",
+		"country_link": "/wiki/Postal_codes_in_Italy",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"JM": {
+		"country": "Jamaica",
+		"country_link": "/wiki/Postal_codes_in_Jamaica",
+		"area_format": "NN",
+		"street_format": ""
+	},
+	"JP": {
+		"country": "Japan",
+		"country_link": "/wiki/Postal_codes_in_Japan",
+		"area_format": "NNN-NNNN",
+		"street_format": ""
+	},
+	"JE": {
+		"country": "Jersey",
+		"country_link": "/wiki/JE_postcode_area",
+		"area_format": "CCN NAA, CCNN NAA",
+		"street_format": ""
+	},
+	"JO": {
+		"country": "Jordan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Jordan&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"KZ": {
+		"country": "Kazakhstan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Kazakhstan&action=edit&redlink=1",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"KE": {
+		"country": "Kenya",
+		"country_link": "/w/index.php?title=Postal_codes_in_Kenya&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"KR": {
+		"country": "Korea, South",
+		"country_link": "/wiki/List_of_postal_codes_in_South_Korea",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"XK": {
+		"country": "Kosovo",
+		"country_link": "/wiki/Postal_codes_in_Kosovo",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"KW": {
+		"country": "Kuwait",
+		"country_link": "/w/index.php?title=Postal_codes_in_Kuwait&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"KG": {
+		"country": "Kyrgyzstan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Kyrgyzstan&action=edit&redlink=1",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"LA": {
+		"country": "Laos",
+		"country_link": "/w/index.php?title=Postal_codes_in_Laos&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"LV": {
+		"country": "Latvia",
+		"country_link": "/wiki/Postal_codes_in_Latvia",
+		"area_format": "CC-NNNN",
+		"street_format": ""
+	},
+	"LB": {
+		"country": "Lebanon",
+		"country_link": "/w/index.php?title=Postal_codes_in_Lebanon&action=edit&redlink=1",
+		"area_format": "NNNNN, NNNN NNNN",
+		"street_format": ""
+	},
+	"LS": {
+		"country": "Lesotho",
+		"country_link": "/w/index.php?title=Postal_codes_in_Lesotho&action=edit&redlink=1",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"LR": {
+		"country": "Liberia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Liberia&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"LI": {
+		"country": "Liechtenstein",
+		"country_link": "/wiki/Postal_codes_in_Liechtenstein",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"LT": {
+		"country": "Lithuania",
+		"country_link": "/wiki/Postal_codes_in_Lithuania",
+		"area_format": "CC-NNNNN",
+		"street_format": ""
+	},
+	"LU": {
+		"country": "Luxembourg",
+		"country_link": "/wiki/Postal_codes_in_Luxembourg",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"MG": {
+		"country": "Madagascar",
+		"country_link": "/w/index.php?title=Postal_codes_in_Madagascar&action=edit&redlink=1",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"MY": {
+		"country": "Malaysia",
+		"country_link": "/wiki/Postal_codes_in_Malaysia",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"MV": {
+		"country": "Maldives",
+		"country_link": "/w/index.php?title=Postal_codes_in_Maldives&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"MT": {
+		"country": "Malta",
+		"country_link": "/wiki/Postal_codes_in_Malta",
+		"area_format": "AAA NNNN",
+		"street_format": ""
+	},
+	"MH": {
+		"country": "Marshall Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_the_Republic_of_the_Marshall_Islands&action=edit&redlink=1",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"MU": {
+		"country": "Mauritius",
+		"country_link": "/wiki/Postal_codes_in_Mauritius",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"MQ": {
+		"country": "Martinique",
+		"country_link": "/wiki/Postal_codes_in_Martinique",
+		"area_format": "972NN",
+		"street_format": ""
+	},
+	"YT": {
+		"country": "Mayotte",
+		"country_link": "/wiki/Postal_codes_in_Mayotte",
+		"area_format": "976NN",
+		"street_format": ""
+	},
+	"MX": {
+		"country": "Mexico",
+		"country_link": "/wiki/Postal_codes_in_Mexico",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"FM": {
+		"country": "Micronesia",
+		"country_link": "/w/index.php?title=Postal_codes_in_the_Federated_States_of_Micronesia&action=edit&redlink=1",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"MD": {
+		"country": "Moldova",
+		"country_link": "/wiki/Postal_codes_in_Moldova",
+		"area_format": "CCNNNN, CC-NNNN",
+		"street_format": ""
+	},
+	"MC": {
+		"country": "Monaco",
+		"country_link": "/wiki/Postal_codes_in_Monaco",
+		"area_format": "980NN",
+		"street_format": ""
+	},
+	"MN": {
+		"country": "Mongolia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Mongolia&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"ME": {
+		"country": "Montenegro",
+		"country_link": "/wiki/Postal_codes_in_Montenegro",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"MS": {
+		"country": "Montserrat",
+		"country_link": "/wiki/Postal_codes_in_Montserrat",
+		"area_format": "MSR NNNN",
+		"street_format": ""
+	},
+	"MA": {
+		"country": "Morocco",
+		"country_link": "/wiki/Postal_codes_in_Morocco",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"MZ": {
+		"country": "Mozambique",
+		"country_link": "/w/index.php?title=Postal_codes_in_Mozambique&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"MM": {
+		"country": "Myanmar",
+		"country_link": "/wiki/Postal_codes_in_Myanmar",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"NA": {
+		"country": "Namibia",
+		"country_link": "/wiki/Postal_codes_in_Namibia",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"NP": {
+		"country": "Nepal",
+		"country_link": "/wiki/List_of_postal_codes_in_Nepal",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"NC": {
+		"country": "New Caledonia",
+		"country_link": "/wiki/Postal_codes_in_New_Caledonia",
+		"area_format": "988NN",
+		"street_format": ""
+	},
+	"NZ": {
+		"country": "New Zealand",
+		"country_link": "/wiki/Postal_codes_in_New_Zealand",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"NI": {
+		"country": "Nicaragua",
+		"country_link": "/wiki/Postal_codes_in_Nicaragua",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"NE": {
+		"country": "Niger",
+		"country_link": "/w/index.php?title=Postal_codes_in_Niger&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"NG": {
+		"country": "Nigeria",
+		"country_link": "/wiki/Postal_codes_in_Nigeria",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"NF": {
+		"country": "Norfolk Island",
+		"country_link": "/w/index.php?title=Postal_codes_in_Norfolk_Island&action=edit&redlink=1",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"MK": {
+		"country": "North Macedonia",
+		"country_link": "/wiki/Postal_codes_in_North_Macedonia",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"MP": {
+		"country": "Northern Mariana Islands",
+		"country_link": "/wiki/Postal_codes_in_the_Northern_Mariana_Islands",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"NO": {
+		"country": "Norway",
+		"country_link": "/wiki/Postal_codes_in_Norway",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"OM": {
+		"country": "Oman",
+		"country_link": "/w/index.php?title=Postal_codes_in_Oman&action=edit&redlink=1",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"PK": {
+		"country": "Pakistan",
+		"country_link": "/wiki/List_of_postal_codes_of_Pakistan",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"PW": {
+		"country": "Palau",
+		"country_link": "/wiki/Postal_codes_in_Palau",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"PS": {
+		"country": "Palestine",
+		"country_link": "/w/index.php?title=Postal_codes_in_Palestine&action=edit&redlink=1",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"PA": {
+		"country": "Panama",
+		"country_link": "/wiki/Postal_codes_in_Panama",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"PG": {
+		"country": "Papua New Guinea",
+		"country_link": "/w/index.php?title=Postal_codes_in_Papua_New_Guinea&action=edit&redlink=1",
+		"area_format": "NNN",
+		"street_format": ""
+	},
+	"PY": {
+		"country": "Paraguay",
+		"country_link": "/wiki/List_of_postal_codes_of_Paraguay",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"PE": {
+		"country": "Peru",
+		"country_link": "/wiki/List_of_postal_codes_in_Peru",
+		"area_format": "NNNNN, CC NNNN",
+		"street_format": ""
+	},
+	"PH": {
+		"country": "Philippines",
+		"country_link": "/wiki/Postal_codes_in_Philippines",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"PN": {
+		"country": "Pitcairn Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_Pitcairn_Islands&action=edit&redlink=1",
+		"area_format": "PCRN 1ZZ",
+		"street_format": ""
+	},
+	"PL": {
+		"country": "Poland",
+		"country_link": "/wiki/Postal_codes_in_Poland",
+		"area_format": "NN-NNN",
+		"street_format": ""
+	},
+	"PT": {
+		"country": "Portugal",
+		"country_link": "/wiki/Postal_codes_in_Portugal",
+		"area_format": "NNNN-NNN",
+		"street_format": ""
+	},
+	"PR": {
+		"country": "Puerto Rico",
+		"country_link": "/wiki/Postal_codes_in_Puerto_Rico",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"RE": {
+		"country": "R\u00e9union",
+		"country_link": "/wiki/Postal_codes_in_R%C3%A9union",
+		"area_format": "974NN",
+		"street_format": ""
+	},
+	"RO": {
+		"country": "Romania",
+		"country_link": "/wiki/Postal_codes_in_Romania",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"RU": {
+		"country": "Russia",
+		"country_link": "/wiki/Postal_codes_in_Russia",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"BL": {
+		"country": "Saint Barth\u00e9lemy",
+		"country_link": "/wiki/Postal_codes_in_Saint_Barth%C3%A9lemy",
+		"area_format": "97133",
+		"street_format": ""
+	},
+	"SH": {
+		"country": "Saint Helena, Ascension and Tristan da Cunha",
+		"country_link": "/w/index.php?title=Postal_codes_in_Saint_Helena&action=edit&redlink=1",
+		"area_format": "AAAA 1ZZ",
+		"street_format": ""
+	},
+	"LC": {
+		"country": "Saint Lucia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Saint_Lucia&action=edit&redlink=1",
+		"area_format": "CCNN NNN",
+		"street_format": ""
+	},
+	"MF": {
+		"country": "Saint Martin",
+		"country_link": "/wiki/Postal_codes_in_Saint_Martin",
+		"area_format": "97150",
+		"street_format": ""
+	},
+	"PM": {
+		"country": "Saint Pierre and Miquelon",
+		"country_link": "/wiki/Postal_codes_in_Saint_Pierre_and_Miquelon",
+		"area_format": "97500",
+		"street_format": ""
+	},
+	"VC": {
+		"country": "Saint Vincent and the Grenadines",
+		"country_link": "/w/index.php?title=Postal_codes_in_Saint_Vincent_and_the_Grenadines&action=edit&redlink=1",
+		"area_format": "CCNNNN",
+		"street_format": ""
+	},
+	"WS": {
+		"country": "Samoa",
+		"country_link": "/w/index.php?title=Postal_codes_in_Samoa&action=edit&redlink=1",
+		"area_format": "CCNNNN",
+		"street_format": ""
+	},
+	"SM": {
+		"country": "San Marino",
+		"country_link": "/wiki/Postal_codes_in_San_Marino",
+		"area_format": "4789N",
+		"street_format": ""
+	},
+	"SA": {
+		"country": "Saudi Arabia",
+		"country_link": "/wiki/Postal_codes_in_Saudi_Arabia",
+		"area_format": "NNNNN-NNNN, NNNNN",
+		"street_format": ""
+	},
+	"SN": {
+		"country": "Senegal",
+		"country_link": "/w/index.php?title=Postal_codes_in_Senegal&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"RS": {
+		"country": "Serbia",
+		"country_link": "/wiki/Postal_codes_in_Serbia",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"SG": {
+		"country": "Singapore",
+		"country_link": "/wiki/Postal_codes_in_Singapore",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"SK": {
+		"country": "Slovakia",
+		"country_link": "/wiki/Postal_codes_in_Slovakia",
+		"area_format": "NNN NN",
+		"street_format": ""
+	},
+	"SI": {
+		"country": "Slovenia",
+		"country_link": "/wiki/Postal_codes_in_Slovenia",
+		"area_format": "NNNN, CC-NNNN",
+		"street_format": ""
+	},
+	"SO": {
+		"country": "Somalia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Somalia&action=edit&redlink=1",
+		"area_format": "AA NNNNN",
+		"street_format": ""
+	},
+	"ZA": {
+		"country": "South Africa",
+		"country_link": "/wiki/Postal_codes_in_South_Africa",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"GS": {
+		"country": "South Georgia and the South Sandwich Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_South_Georgia_and_the_South_Sandwich_Islands&action=edit&redlink=1",
+		"area_format": "SIQQ 1ZZ",
+		"street_format": ""
+	},
+	"ES": {
+		"country": "Spain",
+		"country_link": "/wiki/Postal_codes_in_Spain",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"LK": {
+		"country": "Sri Lanka",
+		"country_link": "/wiki/Postal_codes_in_Sri_Lanka",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"SD": {
+		"country": "Sudan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Sudan&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"SE": {
+		"country": "Sweden",
+		"country_link": "/wiki/Postal_codes_in_Sweden",
+		"area_format": "NNN NN",
+		"street_format": ""
+	},
+	"CH": {
+		"country": "Switzerland",
+		"country_link": "/wiki/Postal_codes_in_Switzerland",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"SJ": {
+		"country": "Svalbard and Jan Mayen",
+		"country_link": "/wiki/Svalbard_and_Jan_Mayen",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"TW": {
+		"country": "Taiwan",
+		"country_link": "/wiki/Postal_codes_in_Taiwan",
+		"area_format": "NNN, NNN-NN, NNN-NNN",
+		"street_format": ""
+	},
+	"TJ": {
+		"country": "Tajikistan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Tajikistan&action=edit&redlink=1",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"TZ": {
+		"country": "Tanzania",
+		"country_link": "/w/index.php?title=Postal_codes_in_Tanzania&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"TH": {
+		"country": "Thailand",
+		"country_link": "/wiki/Postal_codes_in_Thailand",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"TT": {
+		"country": "Trinidad and Tobago",
+		"country_link": "/wiki/Postal_codes_in_Trinidad_and_Tobago",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"TN": {
+		"country": "Tunisia",
+		"country_link": "/wiki/Postal_codes_in_Tunisia",
+		"area_format": "NNNN",
+		"street_format": ""
+	},
+	"TR": {
+		"country": "Turkey",
+		"country_link": "/wiki/Postal_codes_in_Turkey",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"TM": {
+		"country": "Turkmenistan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Turkmenistan&action=edit&redlink=1",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"TC": {
+		"country": "Turks and Caicos Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_Turks_and_Caicos_Islands&action=edit&redlink=1",
+		"area_format": "TKCA 1ZZ",
+		"street_format": ""
+	},
+	"UA": {
+		"country": "Ukraine",
+		"country_link": "/wiki/Postal_codes_in_Ukraine",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"GB": {
+		"country": "United Kingdom",
+		"country_link": "/wiki/Postcodes_in_the_United_Kingdom",
+		"area_format": "A[A]N[A/N]",
+		"street_format": "A[A]N[A/N] NAA"
+	},
+	"US": {
+		"country": "United States",
+		"country_link": "/wiki/ZIP_code",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"UM": {
+		"country": "United States Minor Outlying Islands",
+		"country_link": "/wiki/United_States_Minor_Outlying_Islands",
+		"area_format": "96898",
+		"street_format": ""
+	},
+	"UY": {
+		"country": "Uruguay",
+		"country_link": "/w/index.php?title=Postal_codes_in_Uruguay&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	},
+	"VI": {
+		"country": "U.S. Virgin Islands",
+		"country_link": "/w/index.php?title=Postal_codes_in_the_U.S._Virgin_Islands&action=edit&redlink=1",
+		"area_format": "NNNNN, NNNNN-NNNN",
+		"street_format": ""
+	},
+	"UZ": {
+		"country": "Uzbekistan",
+		"country_link": "/w/index.php?title=Postal_codes_in_Uzbekistan&action=edit&redlink=1",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"VA": {
+		"country": "Vatican",
+		"country_link": "/wiki/Postal_codes_in_Vatican",
+		"area_format": "00120",
+		"street_format": ""
+	},
+	"VE": {
+		"country": "Venezuela",
+		"country_link": "/w/index.php?title=Postal_codes_in_Venezuela&action=edit&redlink=1",
+		"area_format": "NNNN, NNNN-A",
+		"street_format": ""
+	},
+	"VN": {
+		"country": "Vietnam",
+		"country_link": "/wiki/Postal_codes_in_Vietnam",
+		"area_format": "NNNNNN",
+		"street_format": ""
+	},
+	"WF": {
+		"country": "Wallis and Futuna",
+		"country_link": "/wiki/Postal_codes_in_Wallis_and_Futuna",
+		"area_format": "986NN",
+		"street_format": ""
+	},
+	"ZM": {
+		"country": "Zambia",
+		"country_link": "/w/index.php?title=Postal_codes_in_Zambia&action=edit&redlink=1",
+		"area_format": "NNNNN",
+		"street_format": ""
+	}
+}

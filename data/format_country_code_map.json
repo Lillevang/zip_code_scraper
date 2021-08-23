@@ -1,0 +1,331 @@
+{
+	"NNNN": [
+		"AF",
+		"AL",
+		"AR",
+		"AM",
+		"AU",
+		"AT",
+		"BD",
+		"BE",
+		"BG",
+		"CV",
+		"CX",
+		"CC",
+		"CY",
+		"DK",
+		"SV",
+		"ET",
+		"GE",
+		"DE",
+		"GL",
+		"GW",
+		"HT",
+		"HU",
+		"LR",
+		"LI",
+		"LU",
+		"MZ",
+		"NZ",
+		"NE",
+		"NF",
+		"MK",
+		"NO",
+		"PA",
+		"PY",
+		"PH",
+		"PT",
+		"SG",
+		"ZA",
+		"CH",
+		"SJ",
+		"TN"
+	],
+	"NNNNN, CC-NNNNN": [
+		"AX"
+	],
+	"NNNNN": [
+		"DZ",
+		"BT",
+		"BA",
+		"CR",
+		"HR",
+		"CU",
+		"DO",
+		"EG",
+		"EE",
+		"FI",
+		"FR",
+		"DE",
+		"GT",
+		"ID",
+		"IQ",
+		"IT",
+		"JO",
+		"KE",
+		"KR",
+		"XK",
+		"KW",
+		"LA",
+		"MY",
+		"MV",
+		"MU",
+		"MX",
+		"MN",
+		"ME",
+		"MA",
+		"MM",
+		"NA",
+		"NP",
+		"NI",
+		"PK",
+		"SN",
+		"RS",
+		"ES",
+		"LK",
+		"SD",
+		"TZ",
+		"TH",
+		"TR",
+		"UA",
+		"UY",
+		"ZM"
+	],
+	"NNNNN, NNNNN-NNNN": [
+		"AS",
+		"GU",
+		"MH",
+		"FM",
+		"MP",
+		"PW",
+		"PR",
+		"US",
+		"VI"
+	],
+	"CCNNN": [
+		"AD"
+	],
+	"AI-2640": [
+		"AI"
+	],
+	"CC NNNN": [
+		"AZ"
+	],
+	"NNN, NNNN": [
+		"BH"
+	],
+	"CCNNNNN": [
+		"BB"
+	],
+	"NNNNNN": [
+		"BY",
+		"CN",
+		"CO",
+		"EC",
+		"KZ",
+		"KG",
+		"NG",
+		"RO",
+		"RU",
+		"SG",
+		"TJ",
+		"TT",
+		"TM",
+		"UZ",
+		"VN"
+	],
+	"NNNNN, NNNNN-NNN": [
+		"BR"
+	],
+	"BIQQ 1ZZ": [
+		"AQ"
+	],
+	"BBND 1ZZ": [
+		"IO"
+	],
+	"CCNNNN": [
+		"VG",
+		"VC",
+		"WS"
+	],
+	"AANNNN": [
+		"BN"
+	],
+	"120000": [
+		"KH"
+	],
+	"ANA NAN": [
+		"CA"
+	],
+	"CCN-NNNN": [
+		"KY"
+	],
+	"NNNNNNN, NNN-NNNN": [
+		"CL"
+	],
+	"NNN NN": [
+		"CZ",
+		"GR",
+		"SK",
+		"SE"
+	],
+	"ANNN": [
+		"SZ"
+	],
+	"FIQQ 1ZZ": [
+		"FK"
+	],
+	"CC-NNN": [
+		"FO"
+	],
+	"973NN": [
+		"GF"
+	],
+	"987NN": [
+		"PF"
+	],
+	"NN": [
+		"DE",
+		"JM",
+		"SG"
+	],
+	"AA-NNNN-NNNN": [
+		"GH"
+	],
+	"GX11 1AA": [
+		"GI"
+	],
+	"971NN": [
+		"GP"
+	],
+	"AAN NAA, AANN NAA": [
+		"GG"
+	],
+	"NNN": [
+		"GN",
+		"IS",
+		"LS",
+		"MG",
+		"OM",
+		"PS",
+		"PG"
+	],
+	"AANNNN, NNNNN": [
+		"HN"
+	],
+	"NNNNNN,\nNNN NNN": [
+		"IN"
+	],
+	"NNNNN-NNNNN": [
+		"IR"
+	],
+	"ANN\n(Routing key, which is never used on its own)": [
+		"IE"
+	],
+	"CCN NAA, CCNN NAA": [
+		"IM",
+		"JE"
+	],
+	"NNNNNNN": [
+		"IL"
+	],
+	"NNN-NNNN": [
+		"JP"
+	],
+	"CC-NNNN": [
+		"LV"
+	],
+	"NNNNN, NNNN NNNN": [
+		"LB"
+	],
+	"CC-NNNNN": [
+		"LT"
+	],
+	"AAA NNNN": [
+		"MT"
+	],
+	"972NN": [
+		"MQ"
+	],
+	"976NN": [
+		"YT"
+	],
+	"CCNNNN, CC-NNNN": [
+		"MD"
+	],
+	"980NN": [
+		"MC"
+	],
+	"MSR NNNN": [
+		"MS"
+	],
+	"988NN": [
+		"NC"
+	],
+	"NNNNN, CC NNNN": [
+		"PE"
+	],
+	"PCRN 1ZZ": [
+		"PN"
+	],
+	"NN-NNN": [
+		"PL"
+	],
+	"NNNN-NNN": [
+		"PT"
+	],
+	"974NN": [
+		"RE"
+	],
+	"97133": [
+		"BL"
+	],
+	"AAAA 1ZZ": [
+		"SH"
+	],
+	"CCNN NNN": [
+		"LC"
+	],
+	"97150": [
+		"MF"
+	],
+	"97500": [
+		"PM"
+	],
+	"4789N": [
+		"SM"
+	],
+	"NNNNN-NNNN, NNNNN": [
+		"SA"
+	],
+	"NNNN, CC-NNNN": [
+		"SI"
+	],
+	"AA NNNNN": [
+		"SO"
+	],
+	"SIQQ 1ZZ": [
+		"GS"
+	],
+	"NNN, NNN-NN, NNN-NNN": [
+		"TW"
+	],
+	"TKCA 1ZZ": [
+		"TC"
+	],
+	"A[A]N[A/N]": [
+		"GB"
+	],
+	"96898": [
+		"UM"
+	],
+	"00120": [
+		"VA"
+	],
+	"NNNN, NNNN-A": [
+		"VE"
+	],
+	"986NN": [
+		"WF"
+	]
+}
